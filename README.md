@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @poga89 - Arquitecto  de Soluciones Braider Polo.
-- 👀 I’m interested in  la Arquitectura de Software y el desarrollo de aplicaciones  en Aws, Azure, Java,  Spring Framework , Js.. entre otras tecnologias hemergentes
-- 🌱 I’m currently learning  Aws y Azure
+Braider Polo G. @poga89
+
+- 👋 Actualmente estoy como Arquitecto de Soluciones.
+- 👀 Profundizo en Arquitecturas Cloud, On Premise.
+- 🌱 Profundizo en el desarrollo de software como Java 11, NodeJs, Spring Boot, Angular, entre otros
 - 💞️ I’m looking to collaborate on Java 8 y Java 11
 - 📫 How to reach me ...www.linkedin.com/in/braider-polo
 <!---
